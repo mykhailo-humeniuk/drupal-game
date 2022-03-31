@@ -1,0 +1,14 @@
+uuid: 6077f74f-9fe5-4bf5-b457-a794b0e725b2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - react@site.loc
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

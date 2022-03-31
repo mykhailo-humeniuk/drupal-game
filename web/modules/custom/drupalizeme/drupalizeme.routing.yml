@@ -1,0 +1,8 @@
+drupalizeme.hello_world.content:
+  path: '/hello'
+  defaults:
+    _controller: '\Drupal\drupalizeme\Controller\HelloController::content'
+    _title: 'Rout title'
+  requirements:
+    _permission: 'access content'
+

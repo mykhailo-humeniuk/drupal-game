@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains apex_legends.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function apex_legends_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the apex_legends module.
+    case 'help.page.apex_legends':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('My Awesome Module') . '</p>';
+      return $output;
+
+    default:
+  }
+}

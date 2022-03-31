@@ -1,0 +1,10 @@
+uuid: 69a3eeb3-aa9b-4242-88f1-1df6c2e6ef9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EOQltUQPmgc6UQ2rcJ4Xi_leCEJj5ui0TR-12duS-Tk
+id: html_date
+label: 'HTML Date'
+locked: true
+pattern: Y-m-d

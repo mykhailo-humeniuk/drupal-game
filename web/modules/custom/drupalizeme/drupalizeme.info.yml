@@ -1,0 +1,6 @@
+name: Drupalizeme
+description: module for study
+package: Custom
+
+type: module
+core_version_requirement: '^8 || ^9'

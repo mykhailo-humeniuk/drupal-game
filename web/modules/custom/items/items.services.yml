@@ -1,0 +1,7 @@
+services:
+  plugin.manager.items_weapon:
+    class: Drupal\items\Plugin\ItemsWeaponManager
+    parent: default_plugin_manager
+  plugin.manager.items_armor:
+    class: Drupal\items\Plugin\ItemsArmorManager
+    parent: default_plugin_manager

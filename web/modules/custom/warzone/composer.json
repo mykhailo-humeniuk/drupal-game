@@ -1,0 +1,13 @@
+{
+    "name": "warzone",
+    "type": "drupal-module",
+    "description": "My Awesome Module",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/warzone",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/warzone",
+        "source": "http://cgit.drupalcode.org/warzone",
+    },
+}

@@ -1,0 +1,15 @@
+react_app:
+  version: VERSION
+  js:
+    js/dist/main.min.js: {minified: true}
+  css:
+    theme:
+      css/style.css: { weight: 10 }
+
+react_app_dev:
+  version: VERSION
+  js:
+    js/dist_dev/main.min.js: {minified: true}
+  css:
+    theme:
+      css/style.css: { weight: 10 }

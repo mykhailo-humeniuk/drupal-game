@@ -1,0 +1,6 @@
+drupalizeme.hello_world.admin:
+  title: 'Drupalizeme module settings'
+  description: 'Custom module settings'
+  parent: system.admin_config_development
+  route_name: drupalizeme.hello_world.content
+  weight: 100

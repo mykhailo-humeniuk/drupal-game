@@ -1,0 +1,13 @@
+{
+    "name": "fortnite",
+    "type": "drupal-module",
+    "description": "My Awesome Module",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/fortnite",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/fortnite",
+        "source": "http://cgit.drupalcode.org/fortnite",
+    },
+}
